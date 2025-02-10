@@ -1,0 +1,9 @@
+{
+    "editor.dropIntoEditor.preferences": [
+       
+    ],
+    "files.exclude": {
+        "**/.config/service-account-key.json": false
+    },
+    "files.hotExit": "off"
+}
